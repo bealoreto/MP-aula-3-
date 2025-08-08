@@ -9,3 +9,6 @@ Adiciona o arquivo ao repositório... Registra um arquivo junto ao git para que,
 
 ### git commit -m "mensagem"
 Registra todo o conjunto de alterações em um pacotinho, para que isso seja registrado junto ao Github (online) depois. Ou seja, eu posso adicionar um ou mais arquivos (git add - o que significa que fiz um conjunto de alterações que fazem sentido) e guardei isso no meu repositório.
+
+### git push
+Envia as alteraões para o Github
